@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ChandraMohan-Sah)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChandraMohan-Sah&theme=highcontrast)](https://git.io/streak-stats)
+
+
+![Stats](https://github-readme-stats-seven-phi-44.vercel.app/api?username=ChandraMohan-Sah&show_icons=true&locale=en&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats-seven-phi-44.vercel.app/api/top-langs?username=ChandraMohan-Sah&show_icons=true&locale=en&layout=compact&theme=highcontrast
+)]
+
 <!--
 **ChandraMohan-Sah/ChandraMohan-Sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
